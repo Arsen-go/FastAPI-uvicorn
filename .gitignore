@@ -1,0 +1,17 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directory
+venv/
+.env/
+
+# macOS files
+.DS_Store
+
+# Ignore all package directories (site-packages)
+site-packages/
+
+# Uvicorn logs and generated files
+*.db
